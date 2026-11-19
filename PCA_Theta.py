@@ -10,7 +10,7 @@ select_matrix_batch / run_kl: cached-matrix version for the large 5D example.
 save_result / load_result: portable NPZ + JSON result storage.
 
 Example definitions, settings and plotting are in the corresponding notebooks.
-Project license: MIT. UQpy attribution is retained in LICENSE_UQpy.txt.
+Project license: MIT. UQpy attribution is retained in LICENSE.
 """
 from __future__ import annotations
 import os

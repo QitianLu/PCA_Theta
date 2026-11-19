@@ -45,4 +45,6 @@ when the paper is published.
 ## License
 
 This project is distributed under the [MIT License](LICENSE).
-UQpy retains its original [MIT license and copyright notice](LICENSE_UQpy.txt).
+The Theta criterion implementation includes code adapted from
+[UQpy](https://github.com/SURGroup/UQpy/blob/master/src/UQpy/sampling/ThetaCriterionPCE.py).
+The Michael D. Shields copyright notice in `LICENSE` applies to those portions.
