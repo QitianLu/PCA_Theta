@@ -1,0 +1,16 @@
+# Tested Python version: 3.11.7. CPU execution; no GPU is needed.
+numpy==1.26.4
+scipy==1.11.4
+matplotlib==3.8.0
+threadpoolctl==2.2.0
+UQpy==4.1.5
+beartype==0.9.1
+scikit-learn==1.2.2
+setuptools==68.2.2
+fire==0.6.0
+
+# Notebook interface
+jupyter==1.0.0
+nbformat==5.9.2
+nbclient==0.8.0
+ipykernel==6.28.0

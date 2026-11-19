@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite the accompanying paper listed under preferred-citation. The paper is currently an unpublished manuscript."
+type: software
+title: "PCA-Theta: Correlation-aware sequential sampling for multi-output polynomial chaos expansions"
+version: 1.0.0
+repository-code: "https://github.com/QitianLu/PCA_Theta"
+license: MIT
+authors:
+  - family-names: Lu
+    given-names: Qitian
+    affiliation: "Brno University of Technology"
+  - family-names: Vořechovský
+    given-names: Miroslav
+    affiliation: "Brno University of Technology"
+  - family-names: Novák
+    given-names: Lukáš
+    affiliation: "Brno University of Technology"
+preferred-citation:
+  type: unpublished
+  title: "Correlation-aware sequential sampling for multi-output polynomial chaos expansions"
+  authors:
+    - family-names: Lu
+      given-names: Qitian
+    - family-names: Vořechovský
+      given-names: Miroslav
+    - family-names: Novák
+      given-names: Lukáš
+  year: 2026
+  notes: "Unpublished manuscript."
+keywords:
+  - polynomial chaos expansion
+  - adaptive sampling
+  - principal component analysis
+  - multi-output surrogate modeling
+  - uncertainty quantification
