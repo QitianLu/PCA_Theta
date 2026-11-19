@@ -8,8 +8,8 @@ the open-source [UQpy](https://uqpyproject.readthedocs.io/) library.
 
 ## Contents
 
-The sampling algorithms are implemented in `PCA_Theta.py`. Four example folders
-provide Jupyter notebooks, reference data, and figures:
+Each example folder contains its own copy of `PCA_Theta.py`, together with
+Jupyter notebooks, reference data, and figures:
 
 - `Gaussian/`: localized Gaussian responses.
 - `Wave/`: correlated wave responses.
@@ -27,7 +27,8 @@ jupyter notebook
 ```
 
 Open an example notebook, such as `Gaussian/Gaussian.ipynb`, and run the cells
-in order. The default `RUN_MODE='reference'` loads saved results; use `'smoke'`
+in order with its example folder as the working directory.
+The default `RUN_MODE='reference'` loads saved results; use `'smoke'`
 for a short execution check or `'full'` to run the paper settings.
 Each example includes a `Plotting.ipynb` notebook for reproducing the figures.
 
